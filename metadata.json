@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Toolbox",
+  "description": "A powerful AI image generation and editing tool using Gemini 2.5 Flash Image and Pro models. Features a gallery and an advanced creation studio.",
+  "requestFramePermissions": []
+}
