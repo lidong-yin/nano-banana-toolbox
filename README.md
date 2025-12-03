@@ -19,7 +19,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/16l-TvDG38d4hSu1MVO74GO
 3. Run the app:
    `npm run dev`
 
-## Apps
+## App
 <div align="center">
 <img src="assets/1.png" />
 </div>
